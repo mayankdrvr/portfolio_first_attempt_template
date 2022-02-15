@@ -1,0 +1,19 @@
+.email {
+  margin-top: 4vh;
+  padding: 7px;
+  color: #ffffff;
+  word-break: break-all;
+}
+
+.email:hover {
+  color: #e0be89;
+}
+.fab {
+  margin: 12px;
+  color: #e0be89;
+}
+
+.fab:hover {
+  /* color: darkslategray; */
+  color: #e0be89;
+}

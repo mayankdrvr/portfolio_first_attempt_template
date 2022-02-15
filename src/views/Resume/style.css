@@ -1,0 +1,13 @@
+.viewFour {
+    background-color: #E0BE89;
+}
+
+#resumeTitle {
+    margin-top: 10vh;
+    margin-bottom: 8vh;
+    padding: 0;
+}
+
+h3#resumeTitle:hover {
+    color: #E0BE89;
+}

@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Lorem ipsum ",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Lorem_ipsum_design.svg/450px-Lorem_ipsum_design.svg.png",
+        "about": 
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "technologies": ["Node", "Express", "Handlebars", "MySQL", "Google Cloud - Maps & Places APIs", "Bootstrap", "Adobe Illustrator"],
+        "repo": "https://en.wikipedia.org/wiki/Lorem_ipsum",
+        "site": "https://en.wikipedia.org/wiki/Lorem_ipsum"
+    },
+    {
+        "title": "Lorem ipsum ",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Lorem_ipsum_design.svg/450px-Lorem_ipsum_design.svg.png",
+        "about": 
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "technologies": ["ReactJS", "Stripe API", "Node", "Express", "MongoDB", "Adobe Illustrator"],
+        "repo": "https://en.wikipedia.org/wiki/Lorem_ipsum",
+        "site": "https://en.wikipedia.org/wiki/Lorem_ipsum"
+    },
+    {
+        "title": "Lorem ipsum ",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Lorem_ipsum_design.svg/450px-Lorem_ipsum_design.svg.png",
+        "about": 
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "technologies": ["MongoDB", "ReactJS", "NodeJS", "Express", "Leaflet", "MapBox", "Material UI", "Google Authentication API", "Dicebar API", "ToneJS", "ESlint"],
+        "repo": "https://en.wikipedia.org/wiki/Lorem_ipsum",
+        "site": "https://en.wikipedia.org/wiki/Lorem_ipsum"
+    }
+]

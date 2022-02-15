@@ -1,0 +1,43 @@
+.about-left {
+    background-color: #000000;
+    text-align: center;
+}
+
+.about-photo {
+  display: flex;
+  margin: auto;
+  width: 30%;  
+  align-items: center;
+  justify-text: center; 
+}
+
+#aboutTitle {
+    padding-bottom: 2vh;
+}
+
+.bioText {
+    margin-top: 20px;
+    padding-bottom: 30px;
+    color: #ffffff;
+}
+
+.bio {
+    text-align: center;
+    padding: 8px;
+    width: 80%;
+    margin: auto;
+}
+
+.skillHeader {
+    font-weight: bold;
+    margin-top: 12px;
+}
+
+.skillList {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.skill {
+    list-style-type: none;
+}

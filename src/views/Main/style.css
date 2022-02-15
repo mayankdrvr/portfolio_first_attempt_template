@@ -1,0 +1,143 @@
+html {
+  height: 100%;
+  background-color: #e0be89;
+  font-family: "Montserrat", sans-serif;
+}
+.pro-link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.row {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #000000;
+}
+.email {
+  margin-top: 4vh;
+  padding: 7px;
+  color: #ffffff;
+}
+
+.fab {
+  margin: 12px;
+  color: #e0be89;
+}
+
+.fab:hover {
+  /* color: darkslategray; */
+  color: #e0be89;
+}
+
+.col-md {
+  width: 100%;
+  padding: 0;
+}
+
+.right-image {
+  background-image: url("../../img/background.jpg");
+  width: 100%;
+  height: 106vh;
+  z-index: -1000;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  margin-top: -100px;
+}
+
+.mobile-title {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 45px;
+  letter-spacing: 8px;
+  display: none;
+}
+
+.alignCenter {
+  text-align: center;
+  margin-top: 30vh;
+  padding: 10px;
+}
+
+.intro {
+  font-family: "Montserrat", sans-serif;
+  width: 80%;
+  margin: auto;
+  color: #d2d1cf;
+  /* display: flex;
+  flex-direction: row; */
+}
+h3 {
+  color: #ffffff;
+}
+.readMore {
+  background-color: #654320;
+  color: #ffffff;
+  border: #e0be89 solid 1px;
+  border-radius: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.readMore:hover {
+  background-color: #654320;
+  border: #e0be89 solid 1px;
+  color: #e0be89;
+}
+
+/* .aboutButton {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.aboutButton:hover {
+    color: #f5f5f5;
+    text-decoration: none;
+} */
+
+@media (max-width: 767px) {
+  .right-image {
+    display: none;
+  }
+
+  .col-md {
+    width: 100%;
+    padding: 0px;
+  }
+
+  /* .mobile-image {
+        background-image: url("../../img/background.jpg");
+        width: 100%;
+        height: 57vh;
+        z-index: -1000;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin: 0;
+        margin-top: -293px;
+    } */
+
+  /* .mobile-title {
+        display: block;
+        color: #E0BE89;
+    } */
+
+  .alignCenter {
+    margin-top: 21vh;
+    margin-bottom: 20vh;
+  }
+}
+
+/* older iphones */
+@media (max-width: 767px) {
+  .intro {
+    height: 100px;
+  }
+  .pro-link {
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    align-items: center;
+    justify-content: center;
+  }
+}

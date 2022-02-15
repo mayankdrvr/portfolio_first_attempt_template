@@ -1,0 +1,43 @@
+html {
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.viewTwo {
+    width: 100%;
+    background-color: #E0BE89;
+    color: #ffffff;
+}
+
+.viewTitle {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 7vh;
+    font-size: 45px;
+    letter-spacing: 8px;
+    color: #E0BE89;
+}
+
+.technologies {
+    list-style-type: none;
+    margin: auto;
+    padding: 0px;
+    color: #ffffff;
+}
+
+.techUsed {
+    display: block;
+    text-align: left;
+    text-decoration: none;
+    float: left;
+    padding: 12px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.projectRow {
+    margin-bottom: 15vh;
+    color: #000000;
+}
