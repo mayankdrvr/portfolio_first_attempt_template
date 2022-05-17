@@ -41,7 +41,7 @@ function MainPage() {
             <div className="col-sm text-center pro-link">
               <a href="https://leetcode.com/mayankdv/" target="_blank">
                 <img
-                  src="https://www.linkpicture.com/q/leetcode.svg"
+                  src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/49fd43bd79c6b37ec2680581559fc4bc87380ef1/icons/leetcode2.svg"
                   height="50"
                   width="50"
                   class="pro-link"
@@ -49,7 +49,7 @@ function MainPage() {
               </a>
               <a href="https://www.codechef.com/users/mayankdv" target="_blank">
                 <img
-                  src="https://www.linkpicture.com/q/codechef.a60280cb.svg"
+                  src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/49fd43bd79c6b37ec2680581559fc4bc87380ef1/icons/icons8-codechef%20(1).svg"
                   height="50"
                   width="50"
                   class="pro-link"
@@ -57,7 +57,7 @@ function MainPage() {
               </a>
               <a href="https://codeforces.com/profile/mayankdv" target="_blank">
                 <img
-                  src="https://www.linkpicture.com/q/Codeforces.colored.svg"
+                  src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/49fd43bd79c6b37ec2680581559fc4bc87380ef1/icons/Codeforces.colored.svg"
                   height="50"
                   width="50"
                   class="pro-link"
@@ -66,7 +66,7 @@ function MainPage() {
               &nbsp;
               <a href="https://www.hackerearth.com/@mayankdv" target="_blank">
                 <img
-                  src="https://www.linkpicture.com/q/HE_logo_white.png"
+                  src="https://raw.githubusercontent.com/mayankdrvr/boilerplate_code/main/icons/hackerearth.jpg"
                   height="25"
                   width="75"
                   class="pro-link"
