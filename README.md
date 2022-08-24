@@ -1,6 +1,6 @@
 # React Portfolio
 
-My first attempt at my web development responsive portfolio website in React JS. The objective of this project was to learn React JS. This project is hosted live on https://react-portfolio-mayank.netlify.app/
+My attempt at a web development responsive portfolio website in ReactJS. The objective of this project was to learn ReactJS. This project is hosted live on https://react-portfolio-mayank.netlify.app/
 
 Project Specifications-
 - Fully responsive web application using media queries.
